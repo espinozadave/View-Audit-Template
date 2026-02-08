@@ -42,14 +42,17 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 <img src="Controls-and-compliance-checklist2.png">
 <img src="Controls-and-compliance-checklist3.png" width="500"/>
 
-### Risk Analysis
-![Risk Analysis](risk-analysis.png)
-
-## Evidence
-- 📄 **Audit Template (Sample)**: `audit-template.pdf`
 
 
-> ⚠️ Note: This document is a redacted academic sample and does not represent a real organization.
+## 📄 Full Audit Documentation (Sample)
+
+The following PDF provides a redacted version of the complete internal security audit used in this case study.  
+It demonstrates audit structure, control evaluation, risk analysis, and documentation practices.
+
+👉 **Internal Security Audit – Sample (PDF)**  
+[Open Document](internal-security-audit-sample.pdf)
+
+> ⚠️ Note: This audit is based on a fictional organization and contains no real company data.
 
 
 <a href="https://github.com/espinozadave">Home</a>
