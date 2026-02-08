@@ -24,7 +24,19 @@ The assessment focuses on evaluating organizational security controls, risk expo
 
 ## Evidence
 - 📄 **Audit Template (Sample)**: `audit-template.pdf`
+
+
+## Sample Evidence
+
+### Audit Scope & Overview
 ![Audit Overview](audit-overview.png)
+
+### Control Assessment
+![Control Assessment](control-assessment.png)
+
+### Risk Analysis
+![Risk Analysis](risk-analysis.png)
+
 
 
 > ⚠️ Note: This document is a redacted academic sample and does not represent a real organization.
