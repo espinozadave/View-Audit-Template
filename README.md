@@ -28,8 +28,8 @@ The assessment focuses on evaluating organizational security controls, risk expo
 
 ## Sample Evidence
 
-### Audit Scope & Overview
-![Audit Overview](audit-overview.png)
+### Botium Toys Scope, Goals, and Risk Assessment Report
+![Audit Overview](Botium Toys Scope, Goals and Risk Assessment Report.png)
 
 ### Control Assessment
 ![Control Assessment](control-assessment.png)
