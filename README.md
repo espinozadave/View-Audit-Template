@@ -24,6 +24,8 @@ The assessment focuses on evaluating organizational security controls, risk expo
 
 ## Evidence
 - 📄 **Audit Template (Sample)**: `audit-template.pdf`
+![Audit Overview](audit-overview.png)
+
 
 > ⚠️ Note: This document is a redacted academic sample and does not represent a real organization.
 
