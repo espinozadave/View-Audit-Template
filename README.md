@@ -57,4 +57,5 @@ It demonstrates audit structure, control evaluation, risk analysis, and document
 > ⚠️ Note: This audit is based on a fictional organization and contains no real company data.
 
 
-<a href="https://github.com/espinozadave">Home</a>
+<br><br>
+<a href="https://github.com/espinozadave">🏠 Home</a>
