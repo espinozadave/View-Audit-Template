@@ -54,8 +54,6 @@ It demonstrates audit structure, control evaluation, risk analysis, and document
 [Control Categories](Control-Categories.pdf)<br>
 [Controls and compliance checklist](Control-and-compliance-checklist.pdf)
 
-> ⚠️ Note: This audit is based on a fictional organization and contains no real company data.
-
 
 <br><br>
 <a href="https://github.com/espinozadave">🏠 Home</a>
