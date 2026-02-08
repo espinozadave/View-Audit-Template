@@ -50,7 +50,7 @@ The following PDF provides a redacted version of the complete internal security 
 It demonstrates audit structure, control evaluation, risk analysis, and documentation practices.
 
 👉 **Internal Security Audit – Sample (PDF)**  
-[Open Document](internal-security-audit-sample.pdf)
+[Open Document](Botium Toys Scope goals and risk assessment report.pdf)
 
 > ⚠️ Note: This audit is based on a fictional organization and contains no real company data.
 
