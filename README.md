@@ -40,7 +40,7 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 ## Controls and Compliance Checklist
 <img src="Controls-and-compliance-checklist1.png">
 <img src="Controls-and-compliance-checklist2.png">
-<img src="Controls-and-compliance-checklist3.png" width="800"/>
+<img src="Controls-and-compliance-checklist3.png" width="500"/>
 
 ### Risk Analysis
 ![Risk Analysis](risk-analysis.png)
